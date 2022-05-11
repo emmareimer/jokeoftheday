@@ -1,0 +1,22 @@
+{
+  "name": "jokeoftheday",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emmareimer/jokeoftheday.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emmareimer/jokeoftheday/issues"
+  },
+  "homepage": "https://github.com/emmareimer/jokeoftheday#readme",
+  "dependencies": {
+    "require": "^2.4.20"
+  }
+}
