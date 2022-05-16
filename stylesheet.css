@@ -27,3 +27,9 @@
 #body-div {
     display: block;
 }
+
+@media screen and (max-width: 480px) {
+  #joke-btn {
+    font-size: 45px;
+  }
+}
